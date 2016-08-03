@@ -1,0 +1,22 @@
+Curlese TODO
+
+- Pick REST lib for iOS
+- Pick REST lib for C#
+- Pick REST lib for Android
+- Write simple test sinatra server
+- Write one simple hello world get testcase
+- Write curl
+- Write code for each lang
+- Write test harness (shows green when curl and native language output are the same)
+- Pick codegen lib (cog?)
+- Write codegen to map curl to each language
+
+THEN
+- Increase test cases by:
+	- Writing new Sinatra case
+	- Writing codegen for each language to map curl->native
+	- Pass new test cases
+
+- Increase language support by:
+	- Picking language/lib
+	- Writing passing test cases for each previously supported test case
